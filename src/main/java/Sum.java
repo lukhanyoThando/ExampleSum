@@ -5,6 +5,6 @@ public class Sum {
         int answer = 0;
 
         answer = number1 + number2;
-        System.out.println("The sum is: " + answer);
+        System.out.println("The sum of two numbers is: " + answer);
     }
 }
